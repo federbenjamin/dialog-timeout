@@ -1,0 +1,15 @@
+{
+  "name": "dialog-timeout",
+  "description": "Ends a Claude Code turn left waiting on a permission prompt or question for 30 minutes, and tells the agent you are away",
+  "owner": {
+    "name": "federbenjamin"
+  },
+  "plugins": [
+    {
+      "name": "dialog-timeout",
+      "source": "./",
+      "description": "Ends a Claude Code turn left waiting on a permission prompt or question for 30 minutes, and tells the agent you are away",
+      "category": "productivity"
+    }
+  ]
+}
