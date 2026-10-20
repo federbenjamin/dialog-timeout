@@ -42,4 +42,4 @@ Then end with one message: the handoff path and the shells you stopped, nothing 
 
 ## When the human returns
 
-Their next message ends unattended mode. Point them at the handoff doc and the questions file, answer what they ask, and resume parked work as answers arrive.
+An automatic message, such as `automessage: user is /afk`, does not end unattended mode: keep working. The next message the human types does: point them at the handoff doc and the questions file, answer what they ask, and resume parked work as answers arrive.
