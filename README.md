@@ -1,5 +1,7 @@
 # dialog-timeout
 
+> **Moved.** This plugin now lives in [federbenjamin/stopstopping](https://github.com/federbenjamin/stopstopping) as `dialog-timeout@stopstopping`, alongside its siblings. This repository is archived and receives no updates.
+
 <p align="center"><strong>Ends a Claude Code turn left waiting on a permission prompt or question for 30 minutes, and tells the agent you are away</strong></p>
 
 <p align="center">
