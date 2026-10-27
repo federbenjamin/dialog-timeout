@@ -1,5 +1,7 @@
 # dialog-timeout
 
+> **Moved.** This plugin now lives in [federbenjamin/feder-plugins](https://github.com/federbenjamin/feder-plugins) as `plugins/dialog-timeout`, where it is maintained alongside the other plugins. Install it with `claude plugin install dialog-timeout --marketplace federbenjamin/feder-plugins`. This repository is archived and no longer updated.
+
 <p align="center"><strong>Ends a Claude Code turn left waiting on a permission prompt or question for 30 minutes, and tells the agent you are away</strong></p>
 
 <p align="center">
